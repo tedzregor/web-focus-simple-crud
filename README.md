@@ -12,3 +12,7 @@ A full stack development using Laravel 10, VueJS and MySQL
 1. cd frontend.
 2. run "npm install".
 2. run "npm run dev".
+
+
+## NOTE:
+env file exposed for educational purposes.
